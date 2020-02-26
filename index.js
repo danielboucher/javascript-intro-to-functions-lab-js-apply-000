@@ -20,7 +20,7 @@ function sayHiToGrandma() {
   // for input string to function sayHiToGrandma,
   // if string is equal to string in all lowercase, return string "I can't hear you!"
 
-  lowercase.toLowerCase() === lowercase);
+  lowercase.toLowerCase() === lowercase;
         return (`I can't hear you!`);
   uppercase.toUpperCase() === uppercase;
         return ("YES INDEED!");
